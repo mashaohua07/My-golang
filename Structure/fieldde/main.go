@@ -33,5 +33,5 @@ func main()  {
 
 	fmt.Println(p2)
 	fmt.Println(*(p2.ptr))
-	
+
 }
